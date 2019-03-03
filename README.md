@@ -1,2 +1,2 @@
-# chest-cafe.github.io
+# chest-cafe
 Cafe site
