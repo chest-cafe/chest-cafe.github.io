@@ -13,7 +13,6 @@
 6. Intro
 7. The Menu
 8. Footer
-9. BL
 10. Launch menu
 11. Social media
 ******************************/
@@ -24,6 +23,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Alex+Brush|Great+Vibes|PT+Sans+Narrow:400,700');
 @import url('https://fonts.googleapis.com/css?family=Bad+Script&subset=cyrillic');
+
 
 /*********************************
 2. Body and some general stuff
@@ -68,6 +68,10 @@ p
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
+}
+.title_shadow
+{
+		text-shadow: rgba(0,0,0,0.8) 0 0 10px;
 }
 p a
 {
